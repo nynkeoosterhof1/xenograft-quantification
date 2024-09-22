@@ -1,8 +1,11 @@
 # xenograft-quantification
 
 Citation: 
+
 References
+
 Stringer, C., Wang, T., Michaelos, M., & Pachitariu, M. (2021). Cellpose: a generalist algorithm for cellular segmentation. Nature methods, 18(1), 100-106
+
 Casas Gimeno, G., Dvorianinova, E., Lembke, C-S., Dijkstra ESC., Abbas, H., Liu, Y., Paridaen, JTML. (2023). A quantitative characterization of early neuron generation in the developing zebrafish telencephalon. Developmental neurobiology. 83. 10.1002/dneu.22926.
 
 # Introduction
